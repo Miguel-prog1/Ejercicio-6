@@ -5,7 +5,7 @@ namespace ejercicio6
 {
     class Actividad1
     {
-        public static void Main(string[] args)
+        public static void Main1(string[] args)
         {
             Auto auto = new Auto();
             auto.marca = "Ferrari";
